@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
 <p> Sou um entusiasta no mundo da tecnologia. Atualmente, sou um estudante de Ciência da Computação na Universidade São Judas tadeu (USJT) rumo ao título de bacharelado. Em paralelo a isso, também sou aluno da maior escola de tecnologia do Brasil, a Alura.</p>
+<p>Quando não estou estudando, gosto de ler livros, jogar Xadrez e assistir a filmes e séries.
 
 
 ## 🌐 Socials:
