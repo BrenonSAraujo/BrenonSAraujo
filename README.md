@@ -1,5 +1,6 @@
 # 💫 About Me:
-Atualmente, sou estudante de Ciência da Computação na USJT e aluno da Alura.
+Estudante de Ciência da Computação na USJT;
+Aluno da Alura.
 
 
 ## 🌐 Socials:
