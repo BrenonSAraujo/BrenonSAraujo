@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 <p> Estudante de Ciência da Computação na USJT e aluno da Alura.</p>
 
 ## 🌐 Socials:
