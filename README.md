@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre o Portfólio:
 Bem-vindos ao meu portfólio, um espaço dedicado à minha jornada de aprendizado no desenvolvimento fullstack! Aqui, você encontrará uma coleção de projetos práticos que demonstram minha dedicação em aprender, explorar novas tecnologias e aplicar conceitos fundamentais do desenvolvimento de software.<br><br>Meu portfólio apresenta projetos desenvolvidos com um ecossistema robusto de tecnologias que são pilares no mercado de tecnologia atual. Desde interfaces atraentes até a arquitetura de back-end eficiente, cada linha de código foi escrita com o objetivo de consolidar meu conhecimento e criar soluções funcionais.<br><br>Se você busca um profissional em início de carreira, mas com grande entusiasmo para aprender e contribuir, você está no lugar certo. Explore meu portfólio e descubra como minha trajetória de aprendizado e meus projetos podem agregar valor ao seu time ou à sua próxima iniciativa tecnológica!
 
 
